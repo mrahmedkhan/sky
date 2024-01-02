@@ -1,0 +1,6 @@
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc4rjD1o12vLUXj-JZpQEr-93h3VyCcQqsFQ&usqp=CAU" group-title="SPORTS", beIN Sports 7
+#EXTVLCOPT:http-origin=https://mprod-cdn.toffeelive.com
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
+#EXTVLCOPT:http-cookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9tcHJvZC1jZG4udG9mZmVlbGl2ZS5jb20v:Expires=1704229609:KeyName=prod_live_events:Signature=kcrhQJS7ViM-icnSGF2lhexbtlzpbulAh96qEn0tBzEth5sp-NucFlUu5MAR9vCIR_DLc6df1RmGvjwyXuTVBQ
+https://mprod-cdn.toffeelive.com/live/match-1/index.m3u8
