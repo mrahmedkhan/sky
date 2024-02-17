@@ -1,13 +1,3 @@
-#EXTINF:-1 tvg-logo="https://www.daily-sun.com/_next/image?url=https%3A%2F%2Fcdn.daily-sun.com%2Fpublic%2Fnews_images%2F2022%2F08%2F18%2FT-Sports_logo.jpg&w=1920&q=100",T Sports HD 
-https://ssportstoday24.000webhostapp.com/world.php?id=27
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgZfbyOkSF1khh8NUx2V3TZtPj8OE4ww_86Q&usqp=CAU",BPL 4K
-https://nayeem-parvez.pw/api/fancode.m3u8
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20brgdgVPDGbm34LRASqUdcx_TKXlVNBo-A&usqp=CAU" group-title="SPORTS", Miami Vs Al Hilal 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
-https://cdn-rum.n2olabs.pro/stream.m3u8?url=https://livecdn.rumsport.com/stream/46/index.m3u8&token=ecad27ead1379f917d676c40bcdbe581a332f09f&is_vip=false&verify=1707285600-M8zBlPLdeLeIkch8uh1wTM0R7UAS7Nbw1B1gxxhOpZg=
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR20brgdgVPDGbm34LRASqUdcx_TKXlVNBo-A&usqp=CAU" group-title="SPORTS", inter miami 
-https://ed-b002.edgking.me/plyvivo/1i20wohajiweruza8iju/chunklist.m3u8?|Referer=https://www.niaomea.me/
 #EXTINF:-1 tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Premier League 1
 https://hls.streambtw.com/live/stream_1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png",Arena Sport Premier League
